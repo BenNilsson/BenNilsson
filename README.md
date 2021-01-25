@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">2nd Year Computer Games Development Student & Course Representative at Staffordshire University.</h3>
 
+<p align="left"> <a href="https://twitter.com/bennilsson97" target="blank"><img src="https://img.shields.io/twitter/follow/bennilsson97?logo=twitter&style=for-the-badge" alt="bennilsson97" /></a> </p>
+
 - 🔭 I’m currently working on **my university projects**
 
 - 🌱 I’m currently learning **C#, C++, Unity & UE4**
 
-- 👨‍💻 All of my projects are available at [http://bennilsson.github.io/](http://bennilsson.github.io/)
+- 💻 All of my projects are available at [http://bennilsson.github.io/](http://bennilsson.github.io/)
 
-- 📫 How to reach me **benjaminnilsson1997@gmail.com**
+- 📫 How to reach me <a href="https://linkedin.com/in/benjamin-nilsson" target="blank">LinkedIn</a> or **benjaminnilsson1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
