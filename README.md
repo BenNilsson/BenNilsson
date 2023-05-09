@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">Junior Engineer at Flix Interactive</h3>
+<h3 align="center">Level 1 Engineer at Flix Interactive</h3>
 
 - 🌱 I’m currently learning **Networking**
 
