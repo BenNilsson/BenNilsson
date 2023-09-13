@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">Level 1 Engineer at Flix Interactive</h3>
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently working on Sea of Thieves and Personal Projects
 
 - 💻 All of my projects are available at [http://bennilsson.github.io/](http://bennilsson.github.io/)
 
